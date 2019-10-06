@@ -12,7 +12,7 @@ No known bugs.
 ## Technologies Used
 I used HTML and css to create and modify how I want the website and its features to appear. I used Javascript and jQuery to help me design the business logic of the website,to help the user find out what he/she has ordered and how much it will cost.
 ##Links
-[Github Page]()
+[Github Page](https://trevoryuko.github.io/Ninja-pizza)
 ### License
 MIT License
 
